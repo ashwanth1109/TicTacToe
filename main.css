@@ -50,7 +50,7 @@ body {
 }
 
 #footer {
-  display: flex;
+  display: none;
   width: 100vw;
   height: 80px;
   justify-content: space-evenly;
